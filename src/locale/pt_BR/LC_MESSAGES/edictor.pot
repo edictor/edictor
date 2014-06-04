@@ -1,0 +1,2352 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"POT-Creation-Date: 2010-04-10 12:33+BRT\n"
+"PO-Revision-Date: 2010-04-10 16:50+BRT\n"
+"Last-Translator: Pablo Faria <pablofaria@gmail.com>\n"
+"Language-Team: Pablo Faria <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: workspace/E-Dictor/src/AboutDialog.py:32
+msgid "Sobre"
+msgstr ""
+
+#: workspace/E-Dictor/src/CommentsDialog.py:19
+msgid "Coment\303\241rios feitos"
+msgstr ""
+
+#: workspace/E-Dictor/src/CommentsDialog.py:20
+msgid "Novo"
+msgstr ""
+
+#: workspace/E-Dictor/src/CommentsDialog.py:22
+#: workspace/E-Dictor/src/TextPropertiesDialog.py:24
+msgid "Autor:"
+msgstr ""
+
+#: workspace/E-Dictor/src/CommentsDialog.py:24
+msgid "Resumo:"
+msgstr ""
+
+#: workspace/E-Dictor/src/CommentsDialog.py:27
+#: workspace/E-Dictor/src/ElementPropertiesDialog.py:28
+#: workspace/E-Dictor/src/ExportLexDialog.py:23
+#: workspace/E-Dictor/src/ExportTextDialog.py:28
+#: workspace/E-Dictor/src/InsertBreakDialog.py:26
+#: workspace/E-Dictor/src/InsertPNDialog.py:21
+#: workspace/E-Dictor/src/MetadataDialog.py:30
+#: workspace/E-Dictor/src/TextPropertiesDialog.py:32
+msgid "Ok"
+msgstr ""
+
+#: workspace/E-Dictor/src/CommentsDialog.py:28
+#: workspace/E-Dictor/src/ElementPropertiesDialog.py:29
+#: workspace/E-Dictor/src/ExportLexDialog.py:24
+#: workspace/E-Dictor/src/ExportTextDialog.py:29
+#: workspace/E-Dictor/src/FindReplaceDialog.py:31
+#: workspace/E-Dictor/src/InsertBreakDialog.py:27
+#: workspace/E-Dictor/src/InsertPNDialog.py:22
+#: workspace/E-Dictor/src/InsertTextDialog.py:24
+#: workspace/E-Dictor/src/MetadataDialog.py:31
+#: workspace/E-Dictor/src/TextPropertiesDialog.py:33
+msgid "Cancelar"
+msgstr ""
+
+#: workspace/E-Dictor/src/CommentsDialog.py:47
+#: workspace/E-Dictor/src/CommentsDialog.py:133
+#: workspace/E-Dictor/src/MainFrame.py:1859
+msgid "Coment\303\241rios"
+msgstr ""
+
+#: workspace/E-Dictor/src/CommentsDialog.py:85
+#: workspace/E-Dictor/src/CommentsDialog.py:151
+msgid "Removido"
+msgstr ""
+
+#: workspace/E-Dictor/src/CommentsDialog.py:107
+msgid "Nome do autor precisa ser informado."
+msgstr ""
+
+#: workspace/E-Dictor/src/CommentsDialog.py:107
+#: workspace/E-Dictor/src/CommentsDialog.py:149
+#: workspace/E-Dictor/src/ElementPropertiesDialog.py:127
+#: workspace/E-Dictor/src/ElementPropertiesDialog.py:138
+#: workspace/E-Dictor/src/FindReplaceDialog.py:216
+#: workspace/E-Dictor/src/FindReplaceDialog.py:221
+#: workspace/E-Dictor/src/FindReplaceDialog.py:290
+#: workspace/E-Dictor/src/FindReplaceDialog.py:295
+#: workspace/E-Dictor/src/FindReplaceDialog.py:370
+#: workspace/E-Dictor/src/FindReplaceDialog.py:375
+#: workspace/E-Dictor/src/FindReplaceDialog.py:446
+#: workspace/E-Dictor/src/FindReplaceDialog.py:451
+#: workspace/E-Dictor/src/FindReplaceDialog.py:492
+#: workspace/E-Dictor/src/MainFrame.py:611
+#: workspace/E-Dictor/src/MainFrame.py:1002
+#: workspace/E-Dictor/src/MainFrame.py:1008
+#: workspace/E-Dictor/src/MainFrame.py:1012
+#: workspace/E-Dictor/src/MainFrame.py:1014
+#: workspace/E-Dictor/src/MainFrame.py:1109
+#: workspace/E-Dictor/src/MainFrame.py:1113
+#: workspace/E-Dictor/src/MainFrame.py:1153
+#: workspace/E-Dictor/src/MainFrame.py:1164
+#: workspace/E-Dictor/src/MainFrame.py:1267
+#: workspace/E-Dictor/src/MainFrame.py:1414
+#: workspace/E-Dictor/src/MainFrame.py:1418
+#: workspace/E-Dictor/src/MainFrame.py:1448
+#: workspace/E-Dictor/src/MainFrame.py:1682
+#: workspace/E-Dictor/src/MainFrame.py:1912
+#: workspace/E-Dictor/src/MainFrame.py:1919
+#: workspace/E-Dictor/src/MainFrame.py:1936
+#: workspace/E-Dictor/src/MainFrame.py:1947
+#: workspace/E-Dictor/src/MainFrame.py:1981
+#: workspace/E-Dictor/src/MainFrame.py:2006
+#: workspace/E-Dictor/src/MainFrame.py:2195
+#: workspace/E-Dictor/src/MainFrame.py:2208
+#: workspace/E-Dictor/src/MainFrame.py:2551
+#: workspace/E-Dictor/src/MainFrame.py:2557
+#: workspace/E-Dictor/src/MainFrame.py:2575
+#: workspace/E-Dictor/src/MainFrame.py:2617
+#: workspace/E-Dictor/src/MainFrame.py:2620
+#: workspace/E-Dictor/src/MainFrame.py:2629
+#: workspace/E-Dictor/src/MainFrame.py:2665
+#: workspace/E-Dictor/src/MainFrame.py:2709
+#: workspace/E-Dictor/src/MainFrame.py:2725
+#: workspace/E-Dictor/src/MainFrame.py:2730
+#: workspace/E-Dictor/src/MainFrame.py:2809
+#: workspace/E-Dictor/src/MainFrame.py:2830
+#: workspace/E-Dictor/src/MainFrame.py:2943
+#: workspace/E-Dictor/src/MainFrame.py:2990
+#: workspace/E-Dictor/src/MainFrame.py:3004
+#: workspace/E-Dictor/src/MainFrame.py:3012
+#: workspace/E-Dictor/src/MainFrame.py:3065
+#: workspace/E-Dictor/src/MainFrame.py:3134
+#: workspace/E-Dictor/src/MainFrame.py:3490
+#: workspace/E-Dictor/src/MetadataDialog.py:163
+#: workspace/E-Dictor/src/TextPropertiesDialog.py:131
+msgid "E-Dictor"
+msgstr ""
+
+#: workspace/E-Dictor/src/CommentsDialog.py:149
+msgid "Confirma a remo\303\247\303\243o deste coment\303\241rio?"
+msgstr ""
+
+#: workspace/E-Dictor/src/EditionReplaceDialog.py:18
+msgid "Confirma a aplica\303\247\303\243o da edi\303\247\303\243o sobre esta ocorr\303\252ncia?"
+msgstr ""
+
+#: workspace/E-Dictor/src/EditionReplaceDialog.py:19
+msgid "Substituir &todas"
+msgstr ""
+
+#: workspace/E-Dictor/src/EditionReplaceDialog.py:20
+msgid "&Substituir"
+msgstr ""
+
+#: workspace/E-Dictor/src/EditionReplaceDialog.py:21
+msgid "&Ignorar"
+msgstr ""
+
+#: workspace/E-Dictor/src/EditionReplaceDialog.py:22
+msgid "&Fechar"
+msgstr ""
+
+#: workspace/E-Dictor/src/EditionReplaceDialog.py:41
+#: workspace/E-Dictor/src/MainFrame.py:448
+#: workspace/E-Dictor/src/MainFrame.py:469
+msgid "Substituir similares"
+msgstr ""
+
+#: workspace/E-Dictor/src/ElementPropertiesDialog.py:20
+msgid "Formata\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/ElementPropertiesDialog.py:21
+#: workspace/E-Dictor/src/MainFrame.py:440
+#: workspace/E-Dictor/src/MetadataDialog.py:21
+#: workspace/E-Dictor/src/PreferencesDialog.py:49
+#: workspace/E-Dictor/src/PreferencesDialog.py:60
+#: workspace/E-Dictor/src/TextPropertiesDialog.py:28
+msgid "Tipo:"
+msgstr ""
+
+#: workspace/E-Dictor/src/ElementPropertiesDialog.py:23
+#: workspace/E-Dictor/src/MainFrame.py:442
+msgid "L\303\255ngua:"
+msgstr ""
+
+#: workspace/E-Dictor/src/ElementPropertiesDialog.py:25
+#: workspace/E-Dictor/src/MainFrame.py:630
+msgid "Negrito"
+msgstr ""
+
+#: workspace/E-Dictor/src/ElementPropertiesDialog.py:26
+#: workspace/E-Dictor/src/MainFrame.py:632
+msgid "It\303\241lico"
+msgstr ""
+
+#: workspace/E-Dictor/src/ElementPropertiesDialog.py:27
+#: workspace/E-Dictor/src/MainFrame.py:634
+msgid "Sublinhado"
+msgstr ""
+
+#: workspace/E-Dictor/src/ElementPropertiesDialog.py:45
+#: workspace/E-Dictor/src/Graphy.py:2164 workspace/E-Dictor/src/Graphy.py:4169
+#: workspace/E-Dictor/src/Graphy.py:4283
+#: workspace/E-Dictor/src/PreferencesDialog.py:48
+msgid "Se\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/ElementPropertiesDialog.py:47
+msgid "Elemento de Se\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/ElementPropertiesDialog.py:49
+#: workspace/E-Dictor/src/Graphy.py:1353 workspace/E-Dictor/src/Graphy.py:4171
+#: workspace/E-Dictor/src/Graphy.py:4285
+#: workspace/E-Dictor/src/PreferencesDialog.py:48
+msgid "Par\303\241grafo"
+msgstr ""
+
+#: workspace/E-Dictor/src/ElementPropertiesDialog.py:51
+#: workspace/E-Dictor/src/Graphy.py:1064 workspace/E-Dictor/src/Graphy.py:4173
+#: workspace/E-Dictor/src/Graphy.py:4287
+#: workspace/E-Dictor/src/PreferencesDialog.py:48
+msgid "Senten\303\247a"
+msgstr ""
+
+#: workspace/E-Dictor/src/ElementPropertiesDialog.py:65
+#: workspace/E-Dictor/src/MainFrame.py:231
+#: workspace/E-Dictor/src/MainFrame.py:1858
+msgid "Propriedades"
+msgstr ""
+
+#: workspace/E-Dictor/src/ElementPropertiesDialog.py:103
+msgid "Desfazer altera\303\247\303\243o de propriedades."
+msgstr ""
+
+#: workspace/E-Dictor/src/ElementPropertiesDialog.py:127
+#: workspace/E-Dictor/src/TextPropertiesDialog.py:131
+msgid "Elemento \303\251 nulo."
+msgstr ""
+
+#: workspace/E-Dictor/src/ElementPropertiesDialog.py:138
+msgid "Elemento n\303\243o suportado."
+msgstr ""
+
+#: workspace/E-Dictor/src/ExportLexDialog.py:18
+#: workspace/E-Dictor/src/ExportTextDialog.py:18
+#: workspace/E-Dictor/src/FindReplaceDialog.py:18
+#: workspace/E-Dictor/src/InsertBreakDialog.py:20
+msgid "Op\303\247\303\265es"
+msgstr ""
+
+#: workspace/E-Dictor/src/ExportLexDialog.py:19
+#: workspace/E-Dictor/src/ExportTextDialog.py:21
+msgid "Tipo de arquivo:"
+msgstr ""
+
+#: workspace/E-Dictor/src/ExportLexDialog.py:20
+msgid "Texto (CSV)"
+msgstr ""
+
+#: workspace/E-Dictor/src/ExportLexDialog.py:20
+#: workspace/E-Dictor/src/ExportTextDialog.py:22
+msgid "Hipertexto (HTML)"
+msgstr ""
+
+#: workspace/E-Dictor/src/ExportLexDialog.py:21
+msgid "Lista em ordem alfab\303\251tica"
+msgstr ""
+
+#: workspace/E-Dictor/src/ExportLexDialog.py:22
+msgid "Agrupar itens por similaridade (forma original)"
+msgstr ""
+
+#: workspace/E-Dictor/src/ExportLexDialog.py:47
+msgid "Exportar l\303\251xico de edi\303\247\303\265es"
+msgstr ""
+
+#: workspace/E-Dictor/src/ExportTextDialog.py:19
+msgid "N\303\255vel de edi\303\247\303\243o:"
+msgstr ""
+
+#: workspace/E-Dictor/src/ExportTextDialog.py:22
+msgid "Texto (TXT)"
+msgstr ""
+
+#: workspace/E-Dictor/src/ExportTextDialog.py:23
+msgid "Exportar forma fonol\303\263gica (quando houver)"
+msgstr ""
+
+#: workspace/E-Dictor/src/ExportTextDialog.py:24
+msgid "Apenas elementos para an\303\241lise autom\303\241tica"
+msgstr ""
+
+#: workspace/E-Dictor/src/ExportTextDialog.py:25
+msgid "Exportar uma senten\303\247a por linha"
+msgstr ""
+
+#: workspace/E-Dictor/src/ExportTextDialog.py:26
+msgid "Realizar quebras de linha"
+msgstr ""
+
+#: workspace/E-Dictor/src/ExportTextDialog.py:27
+msgid "N\303\243o exportar nomes de elementos"
+msgstr ""
+
+#: workspace/E-Dictor/src/ExportTextDialog.py:59
+msgid "Exportar texto"
+msgstr ""
+
+#: workspace/E-Dictor/src/ExportTextDialog.py:118
+#: workspace/E-Dictor/src/Graphy.py:4178
+msgid "Texto original"
+msgstr ""
+
+#: workspace/E-Dictor/src/FindReplaceDialog.py:19
+msgid "Procurar:"
+msgstr ""
+
+#: workspace/E-Dictor/src/FindReplaceDialog.py:21
+msgid "Substituir:"
+msgstr ""
+
+#: workspace/E-Dictor/src/FindReplaceDialog.py:23
+msgid "Sens\303\255vel \303\240 caixa"
+msgstr ""
+
+#: workspace/E-Dictor/src/FindReplaceDialog.py:24
+msgid "Para tr\303\241s"
+msgstr ""
+
+#: workspace/E-Dictor/src/FindReplaceDialog.py:25
+msgid "Palavra inteira"
+msgstr ""
+
+#: workspace/E-Dictor/src/FindReplaceDialog.py:26
+msgid "Texto original apenas"
+msgstr ""
+
+#: workspace/E-Dictor/src/FindReplaceDialog.py:27
+msgid "Confirmar substitui\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/FindReplaceDialog.py:28
+msgid "Texto editado"
+msgstr ""
+
+#: workspace/E-Dictor/src/FindReplaceDialog.py:29
+msgid "Do cursor em diante"
+msgstr ""
+
+#: workspace/E-Dictor/src/FindReplaceDialog.py:30
+msgid "Procurar"
+msgstr ""
+
+#: workspace/E-Dictor/src/FindReplaceDialog.py:61
+msgid "Procurar/Substituir"
+msgstr ""
+
+#: workspace/E-Dictor/src/FindReplaceDialog.py:216
+#: workspace/E-Dictor/src/FindReplaceDialog.py:290
+#: workspace/E-Dictor/src/FindReplaceDialog.py:370
+#: workspace/E-Dictor/src/FindReplaceDialog.py:446
+msgid "Nenhuma ocorr\303\252ncia."
+msgstr ""
+
+#: workspace/E-Dictor/src/FindReplaceDialog.py:221
+#: workspace/E-Dictor/src/FindReplaceDialog.py:295
+msgid "Chegou ao fim do documento. Recome\303\247a?"
+msgstr ""
+
+#: workspace/E-Dictor/src/FindReplaceDialog.py:375
+#: workspace/E-Dictor/src/FindReplaceDialog.py:451
+msgid "Chegou ao in\303\255cio do documento. Recome\303\247a do fim?"
+msgstr ""
+
+#: workspace/E-Dictor/src/FindReplaceDialog.py:492
+msgid "Confirma a substitui\303\247\303\243o?"
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:101
+msgid "Aviso: palavra com mais de um n\303\263 contendo texto; usando vers\303\243o editada."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:405 workspace/E-Dictor/src/Graphy.py:1064
+#: workspace/E-Dictor/src/Graphy.py:1353 workspace/E-Dictor/src/Graphy.py:2164
+#: workspace/E-Dictor/src/Graphy.py:4169 workspace/E-Dictor/src/Graphy.py:4171
+#: workspace/E-Dictor/src/Graphy.py:4173 workspace/E-Dictor/src/Graphy.py:4175
+#: workspace/E-Dictor/src/PreferencesDialog.py:335
+msgid "ignorar"
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:405 workspace/E-Dictor/src/Graphy.py:4175
+#: workspace/E-Dictor/src/Graphy.py:4289
+#: workspace/E-Dictor/src/MainFrame.py:1233
+#: workspace/E-Dictor/src/PreferencesDialog.py:48
+msgid "Palavra"
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:692
+msgid "Desfazer quebra."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:721
+msgid "Desfazer remo\303\247\303\243o de quebra."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:792
+msgid "Elemento '%s' inv\303\241lido para constru\303\247\303\243o de senten\303\247a."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:1171 workspace/E-Dictor/src/Graphy.py:1518
+#: workspace/E-Dictor/src/Graphy.py:1601 workspace/E-Dictor/src/Graphy.py:1694
+#: workspace/E-Dictor/src/Graphy.py:2001 workspace/E-Dictor/src/Graphy.py:2363
+msgid "XML mal formado"
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:2695 workspace/E-Dictor/src/Graphy.py:2707
+#: workspace/E-Dictor/src/Graphy.py:3056
+#: workspace/E-Dictor/src/MainFrame.py:889
+msgid "Erro!"
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:2773
+msgid "XML fora do padr\303\243o: <bk> fora de <w> (p="
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:2841 workspace/E-Dictor/src/Graphy.py:2869
+msgid "quebra de se\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:2935
+msgid "Erro! Duas palavras com quebras de p\303\241gina n\303\243o podem ser unidas."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:2956
+msgid ""
+"Erro: n\303\243o foi poss\303\255vel excluir a palavra da senten\303\247a.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:2998
+msgid ""
+"Erro: n\303\243o foi poss\303\255vel separar a palavra.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:3066
+#: workspace/E-Dictor/src/MainFrame.py:3494
+#: workspace/E-Dictor/src/MainFrame.py:3499
+msgid "Erro"
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:3114
+msgid "Desfazer inser\303\247\303\243o de n\303\272mero de p\303\241gina."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:3167
+msgid "Alerta: Se\303\247\303\243o n\303\243o pode ficar vazia."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:3173
+msgid "Desfazer n\303\272mero de p\303\241gina."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:3192
+msgid "Alerta: N\303\243o \303\251 poss\303\255vel haver n\303\272meros de p\303\241gina consecutivos, sem texto entre eles. Neste caso, um dos elementos dever\303\241 ser exclu\303\255do."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:3199
+#: workspace/E-Dictor/src/MainFrame.py:2291
+#: workspace/E-Dictor/src/MainFrame.py:3233
+msgid "Desfazer edi\303\247\303\243o de palavra."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:3363
+msgid "Desfazer exclus\303\243o de palavra."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:3375 workspace/E-Dictor/src/Graphy.py:3943
+#: workspace/E-Dictor/src/Graphy.py:3954
+msgid "Desfazer exclus\303\243o de elemento."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:3442
+msgid "Desfazer \"mover palavra\"."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:3469
+msgid "Desfazer quebra de par\303\241grafo"
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:3540
+msgid "Desfazer inser\303\247\303\243o de texto."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:3629 workspace/E-Dictor/src/Graphy.py:3711
+msgid "Desfazer altera\303\247\303\243o de cabe\303\247alho/rodap\303\251."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:3748 workspace/E-Dictor/src/Graphy.py:3787
+msgid "Elemento inexistente!"
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:3799 workspace/E-Dictor/src/Graphy.py:3806
+msgid "Desfazer fus\303\243o."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:3829
+msgid "N\303\243o h\303\241 elemento anterior ao qual fundir."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:3860
+msgid "Desfazer quebra de senten\303\247a."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:3979
+msgid "Se\303\247\303\243o n\303\243o pode ser finalizada no cabe\303\247alho/rodap\303\251."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:3987
+msgid "A se\303\247\303\243o atual n\303\243o pode ficar vazia."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:4006
+msgid "Desfazer quebra de se\303\247\303\243o."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:4020
+msgid "Texto n\303\243o pode ser finalizado no cabe\303\247alho/rodap\303\251."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:4031
+msgid "O texto atual n\303\243o pode ficar vazio."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:4061
+msgid "Desfazer quebra de texto."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:4116
+msgid "Arquivo informado n\303\243o bate com o texto sendo editado. Importa\303\247\303\243o cancelada."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:4124
+msgid "Importadas %d palavras."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:4392 workspace/E-Dictor/src/Graphy.py:4497
+msgid "Agrupados"
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:4392 workspace/E-Dictor/src/Graphy.py:4497
+msgid "Ordenados"
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:4642 workspace/E-Dictor/src/Graphy.py:4950
+msgid "Erro: arquivo XML inv\303\241lido: "
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:4662
+msgid "Mapeamento do tipo '%s' n\303\243o suportado."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:4716
+msgid "Nenhum elemento 'text' encontrado."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:4742
+msgid "N\303\243o h\303\241 texto a processar."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:4867
+msgid "Desfazer exclus\303\243o do texto."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:4895
+msgid "XML incorreto: propriedade 'generation' \303\251 obrigat\303\263ria."
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:5110 workspace/E-Dictor/src/Graphy.py:5111
+#: workspace/E-Dictor/src/MainFrame.py:419
+msgid "Desfazer"
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:5110 workspace/E-Dictor/src/Graphy.py:5111
+#: workspace/E-Dictor/src/MainFrame.py:420
+msgid "Refazer"
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:5825
+msgid "A opera\303\247\303\243o ["
+msgstr ""
+
+#: workspace/E-Dictor/src/Graphy.py:5825
+msgid "] n\303\243o pode ser desfeita."
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertBreakDialog.py:21
+msgid "Posicione o sinal \"|\" para indicar o local da quebra:"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertBreakDialog.py:23
+msgid "Coluna"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertBreakDialog.py:23
+msgid "Linha"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertBreakDialog.py:23
+msgid "P\303\241gina"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertBreakDialog.py:23
+msgid "Tipo de quebra"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertBreakDialog.py:24
+msgid "N\303\272mero da linha"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertBreakDialog.py:56
+#: workspace/E-Dictor/src/MainFrame.py:424
+msgid "Inserir quebra"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertBreakDialog.py:105
+msgid "\303\211 preciso marcar a posi\303\247\303\243o da quebra na palavra, com o sinal '|'."
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertBreakDialog.py:109
+msgid "A forma original da palavra n\303\243o deve ser modificada."
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertPNDialog.py:18
+msgid "N\303\272mero da p\303\241gina:"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertPNDialog.py:20
+msgid "Inserir no"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertPNDialog.py:20
+#: workspace/E-Dictor/src/MainFrame.py:2876
+msgid "Cabe\303\247alho"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertPNDialog.py:20
+#: workspace/E-Dictor/src/MainFrame.py:2876
+msgid "Rodap\303\251"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertPNDialog.py:36
+#: workspace/E-Dictor/src/MainFrame.py:233
+#: workspace/E-Dictor/src/MainFrame.py:797
+msgid "Edi\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertPNDialog.py:61
+msgid "O n\303\272mero de p\303\241gina precisa ser informado!"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertTextDialog.py:20
+msgid "Entre com o texto a ser inserido:"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertTextDialog.py:22
+msgid "Depois"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertTextDialog.py:22
+msgid "Em rela\303\247\303\243o \303\240 palavra atual, inserir o texto:"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertTextDialog.py:22
+#: workspace/E-Dictor/src/InsertTextDialog.py:120
+msgid "Antes"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertTextDialog.py:23
+msgid "Inserir"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertTextDialog.py:47
+#: workspace/E-Dictor/src/MainFrame.py:427
+msgid "Inserir texto"
+msgstr ""
+
+#: workspace/E-Dictor/src/InsertTextDialog.py:71
+msgid "Nenhum texto informado."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:229
+#: workspace/E-Dictor/src/MainFrame.py:363
+msgid "Texto"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:230
+msgid "Fac-s\303\255mile"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:232
+msgid "Lista de edi\303\247\303\265es"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:234
+#: workspace/E-Dictor/src/MainFrame.py:235
+msgid "Texto:"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:236
+msgid "P\303\241ginas:"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:242
+msgid "&Prefer\303\252ncias..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:242
+msgid "Configura\303\247\303\243o das prefer\303\252ncias da aplica\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:245
+msgid "&Testes gerais"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:248
+msgid "&Sair\tCtrl+Q"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:248
+#: workspace/E-Dictor/src/MainFrame.py:431
+msgid "Sair do programa."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:250
+msgid "&Programa"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:252
+msgid "&Novo"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:255
+msgid "&Abrir\tCTRL+O"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:255
+#: workspace/E-Dictor/src/MainFrame.py:415
+msgid "Abrir um documento."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:257
+msgid "Abrir arquivo de imagem"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:257
+msgid "Abrir imagem..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:260
+msgid "vazio"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:261
+msgid "Abrir recente"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:263
+msgid "&Salvar\tCtrl+S"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:263
+#: workspace/E-Dictor/src/MainFrame.py:416
+msgid "Salvar o documento atual."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:265
+msgid "Salvar &como\tCTRL+SHIFT+S"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:265
+#: workspace/E-Dictor/src/MainFrame.py:417
+msgid "Salvar o documento atual usando outro nome."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:268
+msgid "&Reverter\tF5"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:272
+msgid "Tenta importar texto e edi\303\247\303\265es"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:272
+msgid "XML noutro formato..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:274
+msgid "&Etiquetas..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:274
+msgid "Importa palavras e etiquetas no formato palavra/etiqueta."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:276
+msgid "&Importar"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:278
+msgid "Exporta o texto em diferentes formatos."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:278
+msgid "Texto..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:280
+msgid "L\303\251xico de edi\303\247\303\265es..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:282
+msgid "&Exportar"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:283
+msgid "&Fechar\tCTRL+W"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:285
+msgid "&Arquivo"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:287
+msgid "&Desfazer\tCTRL+Z"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:287
+msgid "Desfazer a \303\272ltima edi\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:289
+msgid "&Refazer\tCTRL+SHIFT+Z"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:292
+msgid "Recor&tar\tCTRL+X"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:294
+msgid "&Copiar\tCTRL+C"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:296
+msgid "C&olar\tCTRL+V"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:299
+msgid "Selecionar tudo\tCTRL+A"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:301
+msgid "&Procurar/substituir...\tCTRL+F"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:303
+msgid "Procurar pr\303\263ximo\tF3"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:305
+msgid "Procurar anterior\tSHIFT+F3"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:307
+msgid "&Editar"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:309
+msgid "Barra de ferramentas"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:312
+msgid "&Pr\303\263xima aba\tCTRL+PAGEDOWN"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:314
+msgid "&Aba anterior\tCTRL+PAGEUP"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:317
+msgid "Aumentar fonte\tCTRL++"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:317
+msgid "Aumentar fonte do editor"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:319
+msgid "Diminuir a fonte do editor"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:319
+msgid "Diminuir fonte\tCTRL+-"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:322
+msgid "Ampliar imagem"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:322
+msgid "Zoom In\tCTRL+UP"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:324
+msgid "Diminuir tamanho da imagem exibida"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:324
+msgid "Zoom out\tCTRL+DOWN"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:326
+msgid "E&xibir"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:328
+msgid "Gerar &XML\tCTRL+ALT+G"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:328
+msgid "Gerar a estrutura XML base para o texto."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:330
+msgid "Etiquetagem autom\303\241tica..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:330
+msgid "Fazer etiquetagem autom\303\241tica do texto."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:333
+msgid "&Metadados\tCTRL+ALT+M"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:336
+msgid "default_text"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:337
+msgid "&Selecionar texto"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:339
+msgid "Palavra anterior\tCTRL+SHIFT+SPACE"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:339
+msgid "Passar para palavra anterior, na edi\303\247\303\243o."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:341
+msgid "Passar para pr\303\263xima palavra, na edi\303\247\303\243o."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:341
+msgid "Pr\303\263xima palavra\tCTRL+SPACE"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:344
+msgid "Exibe a p\303\241gina anterior"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:344
+msgid "P\303\241gina &anterior"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:346
+msgid "Exibe a pr\303\263xima p\303\241gina"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:346
+msgid "P\303\241gina &seguinte"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:348
+msgid "Exibe a primeira p\303\241gina"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:348
+msgid "P\303\241gina &inicial"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:350
+msgid "Exibe a p\303\241gina final"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:350
+msgid "P\303\241gina &final"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:352
+msgid "&Navega\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:353
+msgid "Do&cumento"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:356
+msgid "&Propriedades..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:356
+msgid "Editar propriedades do texto"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:358
+msgid "&Coment\303\241rios"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:358
+msgid "Coment\303\241rios gerais sobre o texto"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:361
+msgid "&Excluir do documento"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:365
+msgid "&Cabe\303\247alho/rodap\303\251..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:365
+msgid "Inserir/alterar cabe\303\247alho/rodap\303\251"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:367
+msgid "&Inserir n\303\272mero de p\303\241gina..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:367
+msgid "Inserir n\303\272mero de p\303\241gina no cab./rodap\303\251"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:369
+msgid "Inserir &texto...\tCTRL+ALT+I"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:369
+msgid "Inserir texto na posic\303\243o atual do documento"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:373
+msgid "De p\303\241gina/linha/coluna...\tCTRL+ALT+\\"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:373
+msgid "Inserir uma quebra de linha, coluna ou p\303\241gina"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:375
+msgid "&Remover"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:375
+msgid "Remover quebra de linha, coluna ou p\303\241gina da palavra sendo editada"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:378
+msgid "Fim de &senten\303\247a\tCTRL+ALT+."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:378
+msgid "Quebrar senten\303\247a ap\303\263s a palavra"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:380
+msgid "Fim de par\303\241&grafo\tCTRL+ALT+P"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:380
+msgid "Quebrar par\303\241grafo ap\303\263s palavra"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:382
+msgid "Inserir &quebra"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:384
+msgid "&Mover para frente"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:384
+msgid "Mover a palavra para depois da pr\303\263xima"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:386
+msgid "Mover a palavra para antes da anterior"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:386
+msgid "Mover para &tr\303\241s"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:388
+msgid "&Remover do texto"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:388
+msgid "Exclui palavra sendo editada do documento"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:390
+msgid "Tornar &n\302\260 de p\303\241gina\tCTRL+ALT+N"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:390
+msgid "Transforma a palavra sendo editada em um elemento de n\303\272mero de p\303\241gina"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:393
+msgid "&Aplicar edi\303\247\303\243o\tCTRL+ALT+A"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:393
+msgid "Aplicar modifica\303\247\303\265es sobre a palavra selecionada"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:395
+msgid "&Coment\303\241rios\tCTRL+ALT+C"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:395
+msgid "Coment\303\241rios de edi\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:397
+msgid "&S\303\255mbolo"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:398
+msgid "E&di\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:400
+msgid "&Manual...\tF1"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:403
+msgid "&Sobre..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:405
+msgid "A&juda"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:413
+msgid "Abrir arquivo de imagem para transcri\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:413
+msgid "Abrir imagem"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:415
+msgid "Abrir"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:416
+msgid "Salvar"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:417
+msgid "Salvar Como"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:417
+msgid "Salvar como..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:419
+msgid "Desfazer \303\272ltima edi\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:420
+msgid "Refazer \303\272ltima opera\303\247\303\243o."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:422
+msgid "Modo de Edi\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:423
+msgid "Inserir n\303\272mero de p\303\241gina."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:423
+msgid "N\303\272mero de P\303\241gina"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:424
+msgid "Inserir quebra de linha, coluna ou p\303\241gina"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:425
+msgid "Remover quebra"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:425
+msgid "Remover quebra da palavra atual"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:426
+msgid "Excluir a palavra atual do documento"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:426
+msgid "Remover palavra"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:427
+msgid "Inserir texto na posi\303\247\303\243o atual"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:428
+msgid "Mover palavra para tr\303\241s"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:428
+msgid "Mover para tr\303\241s"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:429
+msgid "Mover palavra para frente"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:429
+msgid "Mover para frente"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:431
+msgid "Sair"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:437
+msgid "Nenhuma imagem especificada."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:444
+msgid "N"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:445
+msgid "I"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:446
+msgid "S"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:447
+msgid "Aplicar altera\303\247\303\265es"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:449
+msgid "Original:"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:451
+msgid "An\303\241lise fonol\303\263gica"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:452
+msgid "Capitular"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:453
+msgid "Edi\303\247\303\243o:"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:454
+msgid "Segmenta\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:454
+#: workspace/E-Dictor/src/MainFrame.py:1000
+#: workspace/E-Dictor/src/MainFrame.py:2248
+#: workspace/E-Dictor/src/MainFrame.py:2259
+#: workspace/E-Dictor/src/MainFrame.py:2363
+#: workspace/E-Dictor/src/TestUnits.py:470
+msgid "Jun\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:456
+msgid ">>"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:457
+msgid "Forma fonol\303\263gica:"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:460
+#: workspace/E-Dictor/src/MetadataDialog.py:29
+msgid "Remover"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:462
+msgid "Item:"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:464
+msgid "Etiqueta:"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:466
+msgid "Corre\303\247\303\243o:"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:468
+msgid "Aplicar"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:473
+msgid "1"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:474
+msgid "de 1"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:623
+msgid "Insere coment\303\241rio"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:624
+msgid "Insere quebra de p\303\241gina"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:654
+msgid "Primeira"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:656
+msgid "Anterior"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:660
+msgid "Pr\303\263xima"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:662
+msgid "\303\232ltima"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:796
+msgid "Transcri\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:798
+#: workspace/E-Dictor/src/PreferencesDialog.py:236
+msgid "Morfologia"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:869
+msgid "Sim ou N\303\243o?"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:875
+msgid "Informa\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:880
+#: workspace/E-Dictor/src/MainFrame.py:901
+msgid "Informa\303\247\303\243o!"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:884
+msgid "Aten\303\247\303\243o!"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:935
+msgid "Erro ao carregar conte\303\272do (Grafia)!"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1002
+msgid "Forma original n\303\243o pode ser alterada quando h\303\241 jun\303\247\303\243o na lista de edi\303\247\303\265es."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1008
+msgid "Lembre-se que as edi\303\247\303\265es da palavra seguinte ser\303\243o perdidas ap\303\263s a jun\303\247\303\243o. Continua?"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1012
+msgid "A marca de quebra de linha ('|') n\303\243o pode ser retirada manualmente, modificando a forma original. Utilize a op\303\247\303\243o 'Quebra->Remover', no menu de edi\303\247\303\265es."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1014
+msgid "A marca de quebra de linha ('|') n\303\243o pode ser inclu\303\255da manualmente, modificando a forma original. Utilize a op\303\247\303\243o 'Quebra->De p\303\241gina/linha/coluna', no menu de edi\303\247\303\265es."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1017
+msgid "Aplicando edi\303\247\303\265es \303\240 palavra..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1089
+msgid "Erro ao carregar conte\303\272do (Morfologia)!"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1109
+msgid "Esta etiqueta precisa ser cadastrada na lista (na janela de Prefer\303\252ncias)."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1113
+msgid "Esta \303\251 uma nova etiqueta. Confirma?"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1153
+#: workspace/E-Dictor/src/MainFrame.py:1164
+msgid "H\303\241 modifica\303\247\303\265es n\303\243o salvas que ser\303\243o perdidas. Deseja mesmo sair?"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1237
+#: workspace/E-Dictor/src/MainFrame.py:1271
+#: workspace/E-Dictor/src/MainFrame.py:1519
+#: workspace/E-Dictor/src/MainFrame.py:1653
+#: workspace/E-Dictor/src/MainFrame.py:1698
+#: workspace/E-Dictor/src/MainFrame.py:1763
+#: workspace/E-Dictor/src/MainFrame.py:1766
+#: workspace/E-Dictor/src/MainFrame.py:3030
+#: workspace/E-Dictor/src/MainFrame.py:3368
+#: workspace/E-Dictor/src/MainFrame.py:3371
+#: workspace/E-Dictor/src/PreferencesDialog.py:489
+#: workspace/E-Dictor/src/PreferencesDialog.py:515
+msgid "Todos arquivos (*.*)|*.*"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1238
+msgid "Arquivos de figuras (gif,jpg,png,bmp)|*.gif;*.GIF;*.jpg;*.JPG;*.jpeg;*.JPEG;*.png;*.PNG;*.bmp;*.BMP|"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1240
+msgid "Abrir figura"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1261
+#: workspace/E-Dictor/src/MainFrame.py:1262
+msgid "Erro abrindo figura!"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1267
+#: workspace/E-Dictor/src/MainFrame.py:1414
+#: workspace/E-Dictor/src/MainFrame.py:1418
+#: workspace/E-Dictor/src/MainFrame.py:2990
+#: workspace/E-Dictor/src/MainFrame.py:3065
+msgid "H\303\241 modifica\303\247\303\265es n\303\243o salvas que ser\303\243o perdidas. Deseja prosseguir?"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1274
+#: workspace/E-Dictor/src/MainFrame.py:1533
+#: workspace/E-Dictor/src/MainFrame.py:1653
+#: workspace/E-Dictor/src/MainFrame.py:1698
+#: workspace/E-Dictor/src/MainFrame.py:1763
+#: workspace/E-Dictor/src/MainFrame.py:3030
+msgid "Arquivos de texto (*.txt)|*.txt;*.TXT|"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1276
+#: workspace/E-Dictor/src/MainFrame.py:1285
+#: workspace/E-Dictor/src/PreferencesDialog.py:492
+msgid "Abrir arquivo"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1283
+#: workspace/E-Dictor/src/MainFrame.py:1536
+#: workspace/E-Dictor/src/MainFrame.py:1593
+msgid "Arquivos XML (*.xml)|*.xml;*.XML|"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1316
+#: workspace/E-Dictor/src/MainFrame.py:1359
+msgid "Arquivo %s aberto."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1323
+#: workspace/E-Dictor/src/MainFrame.py:1324
+#: workspace/E-Dictor/src/MainFrame.py:1364
+#: workspace/E-Dictor/src/MainFrame.py:1365
+msgid "Erro abrindo arquivo!"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1329
+msgid "Abrindo arquivo %s..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1440
+msgid "*novo*"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1455
+#: workspace/E-Dictor/src/MainFrame.py:1480
+#: workspace/E-Dictor/src/MainFrame.py:1522
+#: workspace/E-Dictor/src/MainFrame.py:1595
+msgid "Nada a ser salvo."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1473
+#: workspace/E-Dictor/src/MainFrame.py:1499
+#: workspace/E-Dictor/src/MainFrame.py:1567
+#: workspace/E-Dictor/src/MainFrame.py:1624
+msgid "Arquivo salvo em '%s'."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1475
+#: workspace/E-Dictor/src/MainFrame.py:1569
+msgid "N\303\243o foi poss\303\255vel salvar o arquivo. N\303\243o sei o por qu\303\252. :)"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1476
+#: workspace/E-Dictor/src/MainFrame.py:1477
+#: workspace/E-Dictor/src/MainFrame.py:1504
+#: workspace/E-Dictor/src/MainFrame.py:1505
+#: workspace/E-Dictor/src/MainFrame.py:1570
+#: workspace/E-Dictor/src/MainFrame.py:1571
+#: workspace/E-Dictor/src/MainFrame.py:1587
+#: workspace/E-Dictor/src/MainFrame.py:1588
+#: workspace/E-Dictor/src/MainFrame.py:1630
+#: workspace/E-Dictor/src/MainFrame.py:1631
+msgid "Erro salvando arquivo!"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1525
+msgid "Salvar Arquivo"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1525
+msgid "Salvar em qual formato?"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1526
+msgid "Criar XML"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1526
+msgid "Texto puro"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1548
+#: workspace/E-Dictor/src/MainFrame.py:1604
+msgid "Salvar arquivo"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1649
+msgid "Importa\303\247\303\243o cancelada"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1649
+msgid ""
+"N\303\243o \303\251 poss\303\255vel importar se um arquivo\n"
+"marcado (XML) n\303\243o for aberto antes."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1650
+msgid "\303\211 necess\303\241rio abrir um arquivo marcado (XML) antes de importar."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1663
+msgid "Importar de arquivo"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1673
+#: workspace/E-Dictor/src/MainFrame.py:1716
+msgid "Trabalhando..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1677
+#: workspace/E-Dictor/src/MainFrame.py:1678
+#: workspace/E-Dictor/src/MainFrame.py:1687
+#: workspace/E-Dictor/src/MainFrame.py:1688
+#: workspace/E-Dictor/src/MainFrame.py:3485
+#: workspace/E-Dictor/src/MainFrame.py:3486
+msgid "Erro importando de arquivo!"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1682
+msgid "Importa\303\247\303\243o efetuada com sucesso!"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1694
+#: workspace/E-Dictor/src/MainFrame.py:1695
+#: workspace/E-Dictor/src/MainFrame.py:1746
+#: workspace/E-Dictor/src/MainFrame.py:1747
+#: workspace/E-Dictor/src/MainFrame.py:3026
+#: workspace/E-Dictor/src/MainFrame.py:3027
+#: workspace/E-Dictor/src/MainFrame.py:3353
+#: workspace/E-Dictor/src/MainFrame.py:3354
+msgid "Nenhum dado para exportar."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1694
+#: workspace/E-Dictor/src/MainFrame.py:1746
+#: workspace/E-Dictor/src/MainFrame.py:3026
+#: workspace/E-Dictor/src/MainFrame.py:3353
+msgid "Exporta\303\247\303\243o cancelada"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1708
+#: workspace/E-Dictor/src/MainFrame.py:1776
+#: workspace/E-Dictor/src/MainFrame.py:3040
+#: workspace/E-Dictor/src/MainFrame.py:3381
+msgid "Exportar para arquivo"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1719
+msgid ""
+"N\303\243o foi poss\303\255vel exportar os dados.\n"
+"\n"
+"Uma ou mais palavras n\303\243o possuem etiqueta morfossint\303\241tica."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1720
+#: workspace/E-Dictor/src/MainFrame.py:1735
+#: workspace/E-Dictor/src/MainFrame.py:1789
+#: workspace/E-Dictor/src/MainFrame.py:1794
+#: workspace/E-Dictor/src/MainFrame.py:3050
+#: workspace/E-Dictor/src/MainFrame.py:3059
+#: workspace/E-Dictor/src/MainFrame.py:3394
+#: workspace/E-Dictor/src/MainFrame.py:3399
+msgid "Erro exportando para arquivo!"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1728
+#: workspace/E-Dictor/src/MainFrame.py:1784
+#: workspace/E-Dictor/src/MainFrame.py:3054
+#: workspace/E-Dictor/src/MainFrame.py:3389
+msgid "Dados exportados para '%s'."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1756
+#: workspace/E-Dictor/src/MainFrame.py:3362
+msgid "Gerando conte\303\272do a ser exportado. Aguarde..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1766
+#: workspace/E-Dictor/src/MainFrame.py:3371
+msgid "Arquivos HTML (*.html)|*.html;*.HTML|"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1793
+#: workspace/E-Dictor/src/MainFrame.py:3398
+msgid "N\303\243o foi poss\303\255vel exportar os dados."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1801
+#: workspace/E-Dictor/src/MainFrame.py:1904
+#: workspace/E-Dictor/src/MainFrame.py:1952
+#: workspace/E-Dictor/src/MainFrame.py:1986
+#: workspace/E-Dictor/src/MainFrame.py:2011
+#: workspace/E-Dictor/src/MainFrame.py:2234
+#: workspace/E-Dictor/src/MainFrame.py:2348
+#: workspace/E-Dictor/src/MainFrame.py:2649
+#: workspace/E-Dictor/src/MainFrame.py:2760
+#: workspace/E-Dictor/src/MainFrame.py:2781
+#: workspace/E-Dictor/src/MainFrame.py:2967
+#: workspace/E-Dictor/src/MainFrame.py:3158
+#: workspace/E-Dictor/src/MainFrame.py:3285
+#: workspace/E-Dictor/src/MainFrame.py:3304
+#: workspace/E-Dictor/src/MainFrame.py:3323
+#: workspace/E-Dictor/src/MainFrame.py:3406
+#: workspace/E-Dictor/src/MainFrame.py:3507
+#: workspace/E-Dictor/src/MainFrame.py:3558
+msgid "Opera\303\247\303\243o n\303\243o pode ser executada!"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1861
+msgid "Excluir do texto"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1862
+msgid "Fundir com anterior"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1864
+msgid "Iniciar nova se\303\247\303\243o aqui"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1865
+msgid "Iniciar novo texto aqui"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1912
+msgid "N\303\243o \303\251 permitido remover a \303\272nica se\303\247\303\243o do texto."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1916
+msgid "Removendo elemento..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1919
+msgid "Confirma remo\303\247\303\243o deste elemento?"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1936
+msgid "Confirma fus\303\243o deste elemento com o anterior?"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:1938
+msgid "Executando a fus\303\243o..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2093
+#: workspace/E-Dictor/src/MainFrame.py:2101
+msgid "N\303\272mero de p\303\241gina inv\303\241lido (%s)."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2106
+msgid "Nenhum dado carregado ainda."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2124
+msgid "Carregando a p\303\241gina..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2130
+#: workspace/E-Dictor/src/MainFrame.py:2983
+msgid "Salvando c\303\263pia autom\303\241tica..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2135
+msgid "de "
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2142
+#: workspace/E-Dictor/src/MainFrame.py:2950
+#: workspace/E-Dictor/src/MainFrame.py:3139
+msgid "Nada a desfazer."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2146
+#: workspace/E-Dictor/src/MainFrame.py:2958
+#: workspace/E-Dictor/src/MainFrame.py:2977
+#: workspace/E-Dictor/src/MainFrame.py:3149
+msgid "Nada a refazer."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2152
+msgid "P\303\241gina n\303\243o pode ser carregada!"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2195
+#: workspace/E-Dictor/src/MainFrame.py:2830
+msgid "H\303\241 uma estrutura XML em uso. Ela precisar\303\241 ser descartada para a convers\303\243o. Continua?"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2198
+msgid "Nada a ser gerado."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2203
+msgid "Gerando estrutura XML para o texto..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2227
+msgid "Estrutura XML base gerada com sucesso ("
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2229
+msgid " palavras processadas)."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2303
+#: workspace/E-Dictor/src/MainFrame.py:3243
+msgid "Atualizando as demais ocorr\303\252ncias de \"%s\"..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2343
+#: workspace/E-Dictor/src/MainFrame.py:3280
+msgid " palavras atualizadas."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2551
+msgid "N\303\243o \303\251 poss\303\255vel transformar a \303\272nica palavra do texto em n\303\272mero de p\303\241gina."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2557
+msgid "O n\303\272mero de p\303\241gina se localiza no rodap\303\251?"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2617
+msgid "A inser\303\247\303\243o de quebra \303\251 permitida apenas no interior de senten\303\247as do texto."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2620
+msgid "J\303\241 h\303\241 uma quebra nesta palavra. Se voc\303\252 continuar ela ser\303\241 substitu\303\255da pela que voc\303\252 definir. Continua?"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2629
+msgid "Na \303\272ltima palavra do texto, apenas a inser\303\247\303\243o de quebra de linha \303\251 permitida."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2634
+msgid "Inserindo quebra..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2665
+msgid "Confirma a exclus\303\243o desta palavra?"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2670
+msgid "Removendo a palavra selecionada..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2709
+msgid "N\303\243o \303\251 permitido inserir texto dentro de um elemento do tipo N\303\272mero de P\303\241gina."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2725
+msgid "\303\211 necess\303\241rio selecionar um s\303\255mbolo do texto para marcar o ponto de inser\303\247\303\243o."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2730
+msgid "Os dados de cabe\303\247alho e rodap\303\251 (se houver) ser\303\243o perdidos. Continua?"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2787
+msgid "N\303\243o h\303\241 metadados definidos. Favor checar as Prefer\303\252ncias da aplica\303\247\303\243o."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2793
+msgid "Atualizando metadados..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2809
+msgid "Confirma a exclus\303\243o deste texto?"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2832
+msgid "Arquivos XML (*.xml)|*.xml;*.XML|Todos arquivos (*.*)|*.*"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2834
+msgid "Importar arquivo"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2842
+msgid "Importando arquivo %s..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2860
+msgid "Arquivo %s importado."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2868
+#: workspace/E-Dictor/src/MainFrame.py:2869
+msgid "Erro importando arquivo!"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2876
+msgid "Escolha uma op\303\247\303\243o:"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2913
+msgid "Desfazendo \303\272ltima edi\303\247\303\243o..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2919
+msgid "Refazer altera\303\247\303\243o do texto."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:2971
+#: workspace/E-Dictor/src/MainFrame.py:3112
+msgid "Desfazer altera\303\247\303\243o do texto."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:3001
+#: workspace/E-Dictor/src/MainFrame.py:3010
+msgid "Nada a fazer."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:3004
+#: workspace/E-Dictor/src/MainFrame.py:3012
+msgid "H\303\241 modifica\303\247\303\265es n\303\243o salvas que ser\303\243o perdidas. Deseja reverter o arquivo?"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:3049
+msgid "N\303\243o foi poss\303\255vel exportar os dados para an\303\241lise fonol\303\263gica."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:3106
+msgid "Refazendo \303\272ltima opera\303\247\303\243o..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:3213
+msgid "N\303\243o foi poss\303\255vel abrir o manual!"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:3368
+msgid "Arquivos de texto (*.csv)|*.csv;*.CSV|"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:3436
+msgid "Ser\303\241 feita a etiquetagem morfol\303\263gica do texto. Isto pode levar v\303\241rios minutos, por favor, aguarde."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:3442
+msgid "Preparando texto para an\303\241lise..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:3462
+msgid "Executando o etiquetador..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:3478
+msgid "Importando etiquetas..."
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:3490
+msgid "Etiquetagem"
+msgstr ""
+
+#: workspace/E-Dictor/src/MainFrame.py:3491
+msgid "Etiquetagem completada com sucesso!"
+msgstr ""
+
+#: workspace/E-Dictor/src/MetadataDialog.py:20
+msgid "Metadado"
+msgstr ""
+
+#: workspace/E-Dictor/src/MetadataDialog.py:23
+#: workspace/E-Dictor/src/PreferencesDialog.py:62
+msgid "Nome:"
+msgstr ""
+
+#: workspace/E-Dictor/src/MetadataDialog.py:25
+msgid "Valor:"
+msgstr ""
+
+#: workspace/E-Dictor/src/MetadataDialog.py:28
+msgid "<<"
+msgstr ""
+
+#: workspace/E-Dictor/src/MetadataDialog.py:65
+#: workspace/E-Dictor/src/PreferencesDialog.py:237
+msgid "Metadados"
+msgstr ""
+
+#: workspace/E-Dictor/src/MetadataDialog.py:163
+msgid "\303\211 necess\303\241rio escolher algum metadado."
+msgstr ""
+
+#: workspace/E-Dictor/src/MetadataDialog.py:167
+msgid "\303\211 necess\303\241rio informar um valor para o metadado."
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:29
+msgid "Seguran\303\247a"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:30
+msgid "Apar\303\252ncia"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:31
+msgid "Linguagem:"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:32
+msgid "English"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:32
+msgid "Portugu\303\252s (brasileiro)"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:34
+msgid "Salvar c\303\263pia anterior (com extens\303\243o \"~\")"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:35
+msgid "Grava\303\247\303\265es autom\303\241ticas em c\303\263pia tempor\303\241ria oculta"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:36
+msgid "Sigla:"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:38
+msgid "Descri\303\247\303\243o:"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:40
+#: workspace/E-Dictor/src/PreferencesDialog.py:54
+#: workspace/E-Dictor/src/PreferencesDialog.py:64
+msgid "Adicionar >>"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:44
+msgid "jun|Jun\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:44
+msgid "seg|Segmenta\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:45
+msgid "ATEN\303\207\303\203O: ordene os elementos da lista por ordem de aplica\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:46
+msgid "(do primeiro para o \303\272ltimo)."
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:47
+msgid "Elemento:"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:51
+msgid "Ignorar para an\303\241lise morfol\303\263gica"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:52
+msgid "Estilo CSS (opcional):"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:57
+msgid "Etiquetas v\303\241lidas (uma por linha):"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:59
+msgid "Permitir a cria\303\247\303\243o de novas etiquetas durante a edi\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:67
+msgid "Salvar..."
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:68
+msgid "Carregar..."
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:117
+msgid "Prefer\303\252ncias"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:233
+msgid "Geral"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:234
+msgid "Edi\303\247\303\243o de Palavras"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:235
+msgid "Elementos do Texto"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:251
+msgid "Ser\303\241 preciso reiniciar a aplica\303\247\303\243o."
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:257
+msgid "A sigla n\303\243o pode conter espa\303\247o em branco."
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:332
+msgid "O tipo n\303\243o pode conter espa\303\247o em branco."
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:490
+msgid "Arquivos de prefer\303\252ncias (*.cfg)|*.cfg;*.CFG"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:510
+msgid "Para que as modifica\303\247\303\265es sejam salvas \303\251 preciso aplic\303\241-las. Continua?"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:516
+msgid "Arquivos de prefer\303\252ncias (*.cfg)|*.cfg;*.CFG|"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:521
+msgid "Salvar prefer\303\252ncias em arquivo"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:539
+msgid "N\303\243o foi poss\303\255vel salvar o arquivo."
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:547
+msgid "\303\211 preciso informar o tipo de metadado!"
+msgstr ""
+
+#: workspace/E-Dictor/src/PreferencesDialog.py:554
+msgid "\303\211 preciso informar o nome do metadado!"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:20
+msgid "Teste de mensagem."
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:65
+msgid "Ser\303\243o executadas rotinas de testes do sistema."
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:80
+msgid "Rotinas executadas com sucesso. Ver resumo em "
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:110
+msgid "Houve problema na execu\303\247\303\243o dos testes. Ver resumo em "
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:216
+msgid ""
+"Teste 001...\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:218
+msgid "   Testando inclus\303\243o de texto puro e grava\303\247\303\243o em "
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:234
+msgid "Teste 001: problemas no TXT gerado."
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:239
+msgid "   Testando reabertura do arquivo "
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:244
+msgid ""
+"   Testando transforma\303\247\303\243o em XML.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:248
+#: workspace/E-Dictor/src/TestUnits.py:1145
+msgid "   Testando grava\303\247\303\243o do documento XML em "
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:262
+msgid "Teste 001: problemas no XML gerado."
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:267
+msgid "   Testando reabertura do documento "
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:281
+msgid ""
+"*** Teste 001 falhou!\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:376
+msgid ""
+"Teste 002...\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:378
+msgid ""
+"   Testa o in\303\255cio do modo de edi\303\247\303\243o, indo 3 palavras pra frente, voltando duas e indo uma.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:391
+msgid ""
+"   Teste: desligar modo de edi\303\247\303\243o, ligar novamente e transformar a palavra em n\303\272mero de p\303\241gina.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:403
+msgid ""
+"   Teste de inser\303\247\303\243o de moderniza\303\247\303\243o, mudan\303\247a de propriedades da palavra, marcar\303\247\303\243o de <o> como \"fon\" e vers\303\243o fonol\303\263gica.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:408
+msgid "Moderniza\303\247\303\243o"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:423
+msgid ""
+"   Teste de inser\303\247\303\243o de quebras de linha (com n\303\272mero), coluna e p\303\241gina (com cab./rod.).\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:460
+msgid ""
+"   Teste: mover palavra (em fronteira de senten\303\247a) para frente e para tr\303\241s novamente.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:466
+msgid ""
+"   Teste: juntar a palavra com quebra de p\303\241gina com a pr\303\263xima e desjuntar.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:481
+msgid ""
+"   Teste de exclus\303\243o de palavra.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:492
+msgid ""
+"   Teste de navega\303\247\303\243o por p\303\241ginas.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:501
+#: workspace/E-Dictor/src/TestUnits.py:777
+msgid ""
+"   Salva o arquivo e compara com a forma esperada.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:517
+msgid "Teste 002: problemas no XML gerado."
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:521
+msgid "*** Teste 002 falhou!"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:532
+msgid ""
+"Teste 003...\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:703
+msgid ""
+"   Testa inser\303\247\303\243o de texto.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:722
+msgid ""
+"   Testa quebra de par\303\241grafo.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:727
+msgid ""
+"   Testa fus\303\243o de par\303\241grafos.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:732
+msgid ""
+"   Testa fus\303\243o de senten\303\247a.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:736
+msgid ""
+"   Testa quebra de senten\303\247a.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:747
+msgid ""
+"   Testa remo\303\247\303\243o de senten\303\247a.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:755
+msgid ""
+"   Modifica\303\247\303\265es para voltar \303\240 forma original do documento.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:769
+msgid ""
+"   Modifica\303\247\303\265es nos metadados.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:774
+msgid "Campo "
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:774
+msgid "Teste do metadado"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:793
+msgid "Teste 003: problemas no XML gerado."
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:797
+msgid "*** Teste 003 falhou!"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:808
+msgid ""
+"Teste 004...\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:981
+msgid ""
+"   Testa quebra de se\303\247\303\243o.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:1003
+msgid "Teste 004: problemas no XML gerado."
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:1007
+msgid "*** Teste 004 falhou!"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:1116
+msgid ""
+"Teste 005...\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:1118
+msgid ""
+"   Cria\303\247\303\243o de nova estrutura XML (id\303\252ntica ao teste 001).\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:1131
+msgid ""
+"   Testando quebra de texto.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:1142
+msgid "Teste 005: erro na quebra de texto."
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:1159
+msgid "Teste 005: problemas no XML gerado."
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:1161
+msgid ""
+"   Testando antern\303\242ncia entre textos.\n"
+msgstr ""
+
+#: workspace/E-Dictor/src/TestUnits.py:1175
+msgid "*** Teste 005 falhou!"
+msgstr ""
+
+#: workspace/E-Dictor/src/TextPropertiesDialog.py:20
+msgid "T\303\255tulo:"
+msgstr ""
+
+#: workspace/E-Dictor/src/TextPropertiesDialog.py:22
+msgid "Ano de produ\303\247\303\243o:"
+msgstr ""
+
+#: workspace/E-Dictor/src/TextPropertiesDialog.py:26
+msgid "Ano de Nascimento:"
+msgstr ""
+
+#: workspace/E-Dictor/src/TextPropertiesDialog.py:29
+msgid "full"
+msgstr ""
+
+#: workspace/E-Dictor/src/TextPropertiesDialog.py:29
+msgid "partial"
+msgstr ""
+
+#: workspace/E-Dictor/src/TextPropertiesDialog.py:30
+msgid "Palavras:"
+msgstr ""
+
+#: workspace/E-Dictor/src/TextPropertiesDialog.py:55
+msgid "Propriedades do Texto"
+msgstr ""
+

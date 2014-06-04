@@ -1,0 +1,174 @@
+<html>
+<head>
+	<title>E-Dictor : Documentação</title>
+	<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
+</head>
+<body style="margin: 50px; margin-top: 15px;">
+	<center>
+		<h1 style="margin-bottom: 0px;">E-Dictor</h1>
+        <small>v1.0alpha</small>
+	</center>
+    <hr size=1/>
+    <center>
+    	<a href="#gen">General</a> | <a href="#inst">Instalation</a> | <a href="#pref">Basic usage</a>
+    </center>
+    <hr size=1/>
+	<a name="gen"><b>Description</b></a>
+    <p>
+        E-Dictor is a tool for transcription and coding of text corpora in XML format, so it can be edited and used in many ways (as for
+        linguistic analises - morphology, syntax, etc.). The XML tag set defined was meant to incorporate edition and POS information as well
+        as text layout information (titles, subtitles, page/line/column breaks, header, footer, etc.).<br>
+        <br>
+        Home page: <a href='https://oncoto.dyndns.org:44883/projects/edictor/' target='_blank'>https://oncoto.dyndns.org:44883/projects/edictor/</a>
+    </p>
+    <p>
+        <b>Authors:</b><br><br>
+        Pablo Faria <pablofaria@gmail.com><br>
+        Fábio Kepler <fabio.kepler@gmail.com><br>
+        Maria C. Paixão e Souza <mariaclara.ps@gmail.com><br>
+    </p>
+    <hr size=1/>
+    This software is freely available under the terms of <b>MIT</b> public licence:<br>
+    <blockquote>
+        <font color='#444444'>
+        Copyright © 2009 Pablo Faria<br>
+        <br>
+        Portions copyright Fábio Kepler e Maria C. Paixão e Souza.<br> 
+        <br>
+        Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br>
+        <br>
+        The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br>
+        <br>
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+        </font>
+    </blockquote>	
+    <hr size=1/>
+    <a name="inst"><b>Instalation</b></a>
+    <blockquote>
+    	<i>Windows:</i>
+
+    	<p>Download the setup file (<i>edictor-[version]-win32.exe</i>), start it and follow the instructions there. E-Dictor will start 
+    	automatically after installation. A desktop and a Start-menu shortcut icon will also be created.</p>
+    </blockquote>
+    <blockquote>
+    	<i>Unix-based:</i>
+
+    	<p>Download and unzip the ZIP file (<i>edictor-[version]-[posix/mac].zip</i>) to a folder of your choice. After that you have only to call
+    	E-Dictor by the command (in a console) (alternatively, you can create a shortcut for it in your desktop):</p>
+    	
+    	$ <i>path-to-folder</i>/edictor 
+    </blockquote>
+    <hr size=1/>
+    <a name="pref"><b>Basic usage</b></a>
+    <blockquote style="font-size:11pt; padding-top: 15px;">
+		<p style="border: 1px solid red; background: #ffefef; padding: 5px;"><font style="color:red"><b>Important note:</b></font><br/><br/>
+    	This is an alpha version of E-Dictor and thus may contain a relevant number of bugs and things to be improved. We ask you to help
+    	us providing feedback throught E-Dictor's homepage at <a href="https://oncoto.dyndns.org:44883/projects/edictor/" target="_blank">
+    	https://oncoto.dyndns.org:44883/projects/edictor/</a> or the email <a href="mailto:corpustb@gmail.com">corpustb@gmail.com</a>. Bug reports and
+    	sugestions will be very welcome!</p>
+
+		<p><b>Introduction</b></p>
+		
+    	<p>First of all: E-Dictor is not meant to be a "MS-Word like" program. The basic functioning of E-Dictor is to convert a portion of
+    	simple text into a XML file and then let the user edit the elements (below) of the resulting structure. E-Dictor will not provide
+    	layout facilities, like borders, margins, font change and so on. It enables the user to build a XML structure over a text and later
+    	make use of other technologies (eg. XSLT) to manage and present it in a better fashion. Briefly, the XML style used by 
+    	E-Dictor allows the following structures:</p>
+    	
+    	<p style="white-space: pre; color: blue;">
+    	Text (one or more, per file) -->
+    		Section (one or more) -->
+    			Paragraph (one or more) -->
+    				Sentence (one or more) -->
+    					Word (one or more) -->
+    						Original form (one) -->
+    							Break (of line, column or page) (zero or one)
+    						Edited form (zero or more)
+    						Phonological form
+    						Part-of-speech tag
+    	</p>
+
+		<p>The basic properties associated with those elements are 'type', 'language' and 'format' (bold/italics/underlined). The 'format' 
+		property is straightforward. The 'language' property refers to the language of foreign portions of the text. But what in fact gives
+		the user the power to extend the XML usability is the 'type' property. With this property, the user can distinguish among different
+		sections (prologue, chapter, etc.), paragraphs (citation, title, etc.), sentences (date, signatures, etc.) and words (enumeration, 
+		character name (in plays), etc.).</p>
+		
+		<p>It's important to note that E-Dictor considers the default value of 'type' to be the "empty" value, for all elements that take 
+		it. Let's say that "not empty" means "marked", a special case (like a paragraph that is the title of the text, or a section that
+		is the summary). Thus, the 'type' property must be set only in special situations. The key idea is to use these properties to further
+		distinguish among elements in an HTML or PDF presentation generated by an XSL transformation, for example, created by the user
+		for its own needs.</p>
+		
+		<p>In order to use this feature, the user must inform the elements types in the Preferences dialog of the application.</p> 
+
+    	<p><b>Step 1: setting preferences</b></p>
+    	
+    	<p>To set preferences, the user must access the menu option Program-->Preferences. There you can find four tabs: "General",
+    	"Word edition", "Text elements" and "Morphology". In the "General" tab you can set the application language (English<sup>1</sup>
+    	and Brazilian Portuguese, until now) and options for saving temporary copies for the working file.</p>
+    	
+    	<p>The "Word edition" tab allows you to set the kind of editions appliable to a word. Each edition type behaves like a "version" of
+    	that word, so it can be used in various ways. For example, you could have an edition type called "Gloss" in order to enter a 
+    	translation together with  specific
+    	information about that word. You will always see two first editions types defined than can't be removed or have their order 
+    	changed. The first is "Junção" which means "joining" (you can rename it), that is used to join two words separated in the original, 
+    	but that should be analysed as one unit. The second is "Segmentação" which means "segmentation", used to separate a word in two or
+    	more parts (eg. prepositions merged with nouns in old texts). You can have more types of editions, e.g., related to philology 
+    	(like, modernization of orthography).</p>
+    	
+    	<p>The "Text elements" tab allows you to set subelements of four types: "Section", "Paragraph", "Sentence" and "Word". Use it
+    	carefully to suit your needs in an optimal way, avoiding redundancy and so on. There, you'll see an option, "Ignore it to 
+    	phonological analysis", which tells E-Dictor not to take that type as relevant to part-of-speech tagging.</p>
+    	
+    	<p>The "Morphology" tab allows you to build a list of part-of-speech (POS) tags for morphosyntactic analysis (see <a 
+    	href="http://www.tycho.iel.unicamp.br/~tycho/corpus/manual/tags.html" target="_blank">here</a>, for an example).
+    	Finally, you have an option to tell E-Dictor if it should allow or not a new POS tag to be added "on demand" (ie., during edition).
+    	</p>
+    	
+    	<p><b>Step 2 ... <i>n</i>: go editing!</b></p>
+    	
+    	<p>Please, give a nice look into the menu options. We think they are more or less straightforward. Portions of the menu may be
+    	inactive if you are not editing any file. If you are editing simple text, the options to manage XML structure will be unavailable.
+    	After converting the simple text to XML or open an already created XML file, you will be able to access them. Briefly, you have:</p>
+    	
+    	<p><i>Menus</i></p>
+     	
+     	<p>"File" menu: options do open, save, revert, close, import (specific to Corpus Tycho Brahe files) and export (in simple text format) the 
+     	document. File formats are XML and TXT.</p>
+     	
+     	<p>"Edit" menu: options to undo, redo, copy & paste, find & replace text.</p>
+     	
+     	<p>"Show" menu: options to hide/unhide the toolbar and to switch between main tabs (Transcription, Graphy, Morphology).</p>
+     	
+     	<p>"Document" menu: options to convert a simple text to an XML structure, manage Metadata (of the document), switch between 
+     	texts inside the document (if more than one) and document browsing options.</p>
+     	
+     	<p>"Edition" menu: options to manage the text properties, update header/footer, insert comments (of the edictor), insert breaks in
+     	the text and to manage words (available only after clicking at a specific word).</p>
+     	
+     	<p>"Help" menu: options to open this manual and to show the "About" dialog.</p> 
+
+		<p><i>Edition</i></p>
+		
+		<p>To edit words you must first click on them. You'll see that many options of the toolbar become active after clicking a word. After
+		doing the changes (in a panel right above the text window) you must click the "Apply changes" button. E-Dictor then passes 
+		automatically to the next word (if any). You can go forward and back using the keyboard keys Ctrl+Space (forward) and 
+		Ctrl+Shift+Space (back).</p>
+		
+		<p>You'll see marks of section, paragraph and sentence, between square brackets (eg., [p], [s]) and in gray color. If you click 
+		over it (right or left mouse button), a popup menu is shown with specific options for those elements (change properties,
+		add/remove comments, etc.).</p>
+		
+		<p>Below the text window there is a page navigation bar which provides access to other pages in the current text. There is a
+		status bar at the bottom of the window, with short messages that can help you understand the menu options or indicate success 
+		or failure of operations.</b>
+
+		<br/>    	
+    	<hr size="1" width="20%" align="left"/>
+    	<p style="font-size:9pt">
+		<sup>1</sup> For any translation errors or inadequacies, please let us know.
+		</p>
+    </blockquote>
+</body>
+</html>
